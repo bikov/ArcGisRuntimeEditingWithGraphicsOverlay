@@ -1,0 +1,12 @@
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\bin\Debug\SceneEditingDemo.exe
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\bin\Debug\SceneEditingDemo.pdb
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\SceneEditingDemo.csprojResolveAssemblyReference.cache
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\MainWindow.baml
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\MainWindow.g.cs
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\App.g.cs
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\SceneEditingDemo_MarkupCompile.cache
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\SceneEditingDemo.g.resources
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\SceneEditingDemo.exe
+D:\Dev\Work\arcgis-runtime-demos-dotnet\src\SceneViewEdit\SceneEditingDemo\obj\Debug\SceneEditingDemo.pdb
